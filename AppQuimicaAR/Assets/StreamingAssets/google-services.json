@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50343059311",
+    "project_id": "quimicaarapp-c9c13",
+    "storage_bucket": "quimicaarapp-c9c13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50343059311:android:121978fa542303b9e6129a",
+        "android_client_info": {
+          "package_name": "com.utpl.quimicaarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu9Gq2Cbh4vURNUIgC8tyiobxmKdv8yt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

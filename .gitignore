@@ -1,0 +1,9 @@
+*.blend1
+AppQuimicaAR/Library/
+AppQuimicaAR/Logs/
+AppQuimicaAR/Builds/
+AppQuimicaAR/*.log
+AppQuimicaAR/Temp/
+AppQuimicaAR/obj/
+*.so
+*.bundle

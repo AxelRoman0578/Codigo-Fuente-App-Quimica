@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "879493368500",
+    "firebase_url": "https://cuestionarios-7b7b2-default-rtdb.firebaseio.com",
+    "project_id": "cuestionarios-7b7b2",
+    "storage_bucket": "cuestionarios-7b7b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879493368500:android:6591cef61658ccbb1525e1",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.QuimicaRA"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEudJDHk-lOZ2KChIaxAfGhPKL8A2LhYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

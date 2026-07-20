@@ -1,0 +1,5 @@
+C:/Users/Usuario iTC/Desktop/asas/QuimicaPruebas/.utmp/Debug/6f2e2n3o/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Usuario iTC/Desktop/asas/QuimicaPruebas/.utmp/Debug/6f2e2n3o/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/Usuario iTC/Desktop/asas/QuimicaPruebas/.utmp/Debug/6f2e2n3o/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/Usuario iTC/Desktop/asas/QuimicaPruebas/.utmp/Debug/6f2e2n3o/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/Usuario iTC/Desktop/asas/QuimicaPruebas/.utmp/Debug/6f2e2n3o/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
